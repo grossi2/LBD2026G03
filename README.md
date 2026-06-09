@@ -29,7 +29,7 @@ El repositorio incluye el archivo `LBD2026G03TP1Corregido.zip`, que contiene:
 
 El repositorio incluye el archivo `LBD2026G03TP2Corregido.zip`, que contiene:
 
-- `LBD2026G03Script.sql`: crea la base de datos `LBD2026G03Farmacia`, sus tablas, restricciones, indices y datos de prueba.
+- `LBD2026G03Script.sql`: crea la base de datos `LBD2026G03Farmacia`, sus tablas, restricciones, indices y datos de prueba. Modificado desde el el práctico anterior.
 - `LBD2026G03TP2.sql`: contiene las consultas desarrolladas para el trabajo practico.
 
 El archivo `LBD2026G03TP3.zip`, contiene:
